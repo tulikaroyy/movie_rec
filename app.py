@@ -8,6 +8,23 @@ import requests
 import gdown
 import os
 
+
+st.markdown(
+    f"""
+    <style>
+    .stApp {{
+        background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/12142.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
 # Download files from Google Drive if not already present
 if not os.path.exists('movie_dict.pkl'):
     url = 'https://drive.google.com/uc?id=1FoZwpaGO28UEiytbr3NWtJlpROynXs_0'
