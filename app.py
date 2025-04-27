@@ -55,6 +55,15 @@ def recommend(movie):
     return recommended_movies
 
 # Streamlit UI
+
+# container div to shift content to right
+st.markdown(
+    """
+    <div style="padding-left: 50%; padding-top: 50px;">
+    """,
+    unsafe_allow_html=True
+)
+
 st.title('Movie Recommender System')
 
 selected_movie_name = st.selectbox('What movie would you like to watch?', movies['title'].values)
@@ -63,3 +72,11 @@ if st.button('Recommend'):
     recommendations = recommend(selected_movie_name)
     for i in recommendations:
         st.write(i)
+
+# Close the div
+st.markdown(
+    """
+    </div>
+    """,
+    unsafe_allow_html=True
+)
