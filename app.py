@@ -10,7 +10,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://drive.google.com/uc?id=1OcdVbcG4AjpEdRb62JvMRE2VYH2fQJ_d");
+        background-image: url("https://drive.google.com/uc?export=view&id=1OcdVbcG4AjpEdRb62JvMRE2VYH2fQJ_d");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
