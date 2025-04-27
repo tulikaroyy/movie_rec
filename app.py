@@ -10,7 +10,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://drive.google.com/uc?export=view&id=1OcdVbcG4AjpEdRb62JvMRE2VYH2fQJ_d");
+        background-image: url("https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg?semt=ais_hybrid&w=740");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
