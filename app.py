@@ -10,7 +10,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de4383fa-980b-41ea-b6e9-54809063c3ec/da28yod-d9b83981-8ff7-49e7-81c4-02a4816d7f9e.png/v1/fill/w_1024,h_539,q_80,strp/captain_america_civil_war_choose_a_side_wallpaper_by_csm_oficial_da28yod-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM5IiwicGF0aCI6IlwvZlwvZGU0MzgzZmEtOTgwYi00MWVhLWI2ZTktNTQ4MDkwNjNjM2VjXC9kYTI4eW9kLWQ5YjgzOTgxLThmZjctNDllNy04MWM0LTAyYTQ4MTZkN2Y5ZS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.788DY141GURZAGO0L3Jz4Z_aWEe7prf6fhPKhpnb1hA");
+        background-image: url("https://drive.google.com/uc?id=1OcdVbcG4AjpEdRb62JvMRE2VYH2fQJ_d");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
