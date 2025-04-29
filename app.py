@@ -52,7 +52,7 @@ similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 #fetch poster
 def fetch_poster(movie_id):
-    return "https://via.placeholder.com/150"  #maybe later 
+    return "later"  #maybe later 
 
 #recommend func
 def recommend(movie):
